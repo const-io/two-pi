@@ -123,4 +123,4 @@ Copyright &copy; 2016. The [Compute.io][compute-io] Authors.
 [testling]: https://ci.testling.com
 
 [compute-io]: https://github.com/compute-io/
-[pi]: https://en.wikipedia.org/wiki/Pi
+[pi]: https://github.com/const-io/pi
