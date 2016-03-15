@@ -2,7 +2,7 @@
 ===
 [![NPM version][npm-image]][npm-url] [![Build Status][build-image]][build-url] [![Coverage Status][coverage-image]][coverage-url] [![Dependencies][dependencies-image]][dependencies-url]
 
-> [2π][pi].
+> [2π][const-pi].
 
 
 ## Installation
@@ -20,7 +20,7 @@ var TWO_PI = require( 'const-two-pi' );
 
 #### TWO_PI
 
-The mathematical constant [pi][pi] times `2`.
+The mathematical constant [pi][const-pi] times `2`.
 
 ``` javascript
 TWO_PI === 6.283185307179586;
@@ -123,4 +123,4 @@ Copyright &copy; 2016. The [Compute.io][compute-io] Authors.
 [testling]: https://ci.testling.com
 
 [compute-io]: https://github.com/compute-io/
-[pi]: https://github.com/const-io/pi
+[const-pi]: https://github.com/const-io/pi
